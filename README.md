@@ -4,7 +4,7 @@ Dive into the world of colorful bubbles and sorting algorithms with Bubble Short
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/bubble-short/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/bubble-short/) 🕹️
 
 ## About the Game
 
